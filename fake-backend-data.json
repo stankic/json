@@ -1,0 +1,431 @@
+{
+  "chargers": [
+    {
+      "id": "fc5183fb-558c-4e3b-8a55-144b7163c49d",
+      "serial_number": "78as52hb5jk2345829ufdssd2",
+      "charge_point_serial_number": "IJKHFERFRFE",
+      "name": "Foca - Sadion - Sjeverna Tribina",
+      "model": "EVlink Wallbox Plus - T2 socket outlet - 3 phase - 16A/11kW",
+      "vendor": "Schneider Electric",
+      "firmware_version": "2.81.0 14456",
+      "address": "Pera Nikica 17A, Foca Nova kao ime",
+      "price": "0.72",
+      "power": 72,
+      "status": "AVAILABLE",
+      "state": "OPERATIVE",
+      "last_message_at": "2021-11-06T23:25:44.353Z",
+      "last_diagnostic_at": "2021-10-06T23:25:44.353Z",
+      "diagnostic_file_link": "https://yahoo.com",
+      "diagnostic_file": "Diagnostic Report 2021-14-08",
+      "connectors": [
+        {
+          "id": "123QWE876FGH",
+          "status": "AVAILABLE",
+          "name": "24761",
+          "type": "TYPE_2"
+        },
+        {
+          "id": "ADPOI998A1227",
+          "status": "AVAILABLE",
+          "name": "77817",
+          "type": "TYPE_2"
+        },
+        {
+          "id": "5t54tADPOI998A1227",
+          "status": "CHARGING",
+          "name": "87321",
+          "type": "CCS_TYPE_2"
+        }
+      ],
+      "serialNumber": "78as52hb5jk2345829ufdssd2",
+      "cpSerialNumber": "ncwef874r2jncw92fwsd",
+      "firmwareVersion": "2.81.0 123"
+    },
+    {
+      "id": "x78vR_j",
+      "serial_number": "7846089723141",
+      "charge_point_serial_number": "BCEWIFICWEWERF",
+      "name": "Biblioteka Foca",
+      "model": "Juzna Backa - HomeCharger",
+      "vendor": "Juzna Backa",
+      "firmware_version": "22.08",
+      "address": "Zike Pavlovica 14",
+      "price": 0.5,
+      "power": 14,
+      "status": "UNAVAILABLE",
+      "state": "OPERATIVE",
+      "last_message_at": "2020-11-06T23:25:44.353Z",
+      "last_diagnostic_at": "2020-11-06T23:25:44.353Z",
+      "diagnostic_file_link": "https://instagram.com",
+      "diagnostic_file": "Diagnostic Report 2021-14-08",
+      "serialNumber": "r2345r52t5",
+      "cpSerialNumber": "245t245t",
+      "firmwareVersion": "324",
+      "connectors": [
+        {
+          "id": "ADPOI998A1227",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "CCS_TYPE_2"
+        },
+        {
+          "id": "5t54tADPOI998A1227",
+          "status": "FAULTED",
+          "name": "neko moje ime",
+          "type": "TYPE_2"
+        }
+      ]
+    },
+    {
+      "id": "NNG4-ud",
+      "serial_number": "638576280352",
+      "charge_point_serial_number": "JFHIWOUEHFW",
+      "name": "Piljara - Glavni ulaz",
+      "model": "Schneider 2040 V8",
+      "vendor": "Schneider",
+      "firmware_version": "4.77v",
+      "address": "Foca BB",
+      "price": 4,
+      "power": 7,
+      "status": "AVAILABLE",
+      "state": "OPERATIVE",
+      "last_message_at": "2014-11-06T23:53:51.373Z",
+      "last_diagnostic_at": null,
+      "diagnostic_file_link": null,
+      "connectors": [
+        {
+          "id": "123QWE876FGH",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "TYPE_2"
+        },
+        {
+          "id": "5t54tADPOI998A1227",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "CCS_TYPE_2"
+        }
+      ]
+    },
+    {
+      "id": "7507slq",
+      "serial_number": "09882376451",
+      "charge_point_serial_number": "JKHFWOIFOWEF",
+      "name": "VW - Auto Centar",
+      "model": "VW Laidos 2000",
+      "vendor": "VW Inc.",
+      "firmware_version": "0.71",
+      "address": "Sumatovacka 14",
+      "price": 7.5,
+      "power": 130,
+      "status": "AVAILABLE",
+      "state": "OPERATIVE",
+      "last_message_at": "2000-11-06T23:53:51.373Z",
+      "last_diagnostic_at": null,
+      "diagnostic_file_link": null,
+      "connectors": [
+        {
+          "id": "123QWE876FGH",
+          "status": "FAULTED",
+          "name": "neko moje ime",
+          "type": "CCS_TYPE_2"
+        },
+        {
+          "id": "ADPOI998A1227",
+          "status": "CHARGING",
+          "name": "neko moje ime",
+          "type": "TYPE_2"
+        }
+      ]
+    },
+    {
+      "id": "4ncnLM1",
+      "serial_number": "423511214",
+      "charge_point_serial_number": "HGFUIWERHFE",
+      "name": "Tesla Charger - Vitanovacka",
+      "model": "TeslaCharge 72.20",
+      "vendor": "Tesla",
+      "firmware_version": "1.17.0",
+      "address": "Vitanovacka 44",
+      "price": 17.22,
+      "power": 50,
+      "status": "FAULTED",
+      "state": "INOPERATIVE",
+      "last_message_at": null,
+      "last_diagnostic_at": null,
+      "diagnostic_file_link": null,
+      "connectors": [
+        {
+          "id": "123QWE876FGH",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "TYPE_2"
+        },
+        {
+          "id": "ADPOI998A1227",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "TYPE_2"
+        }
+      ]
+    },
+    {
+      "id": "w4Wbs4C",
+      "serial_number": "8794091278341",
+      "charge_point_serial_number": "JKFJKWRUFWASQ",
+      "name": "Jahorina - Vucko",
+      "model": "RTRK Tutbo Rocket 2.0",
+      "vendor": "RTRK Co.",
+      "firmware_version": "0.81v",
+      "address": "Jahorina, Glavna 17",
+      "price": 17,
+      "power": 90,
+      "status": "AVAILABLE",
+      "state": "OPERATIVE",
+      "last_message_at": null,
+      "last_diagnostic_at": null,
+      "diagnostic_file_link": null,
+      "connectors": [
+        {
+          "id": "123QWE876FGH",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "CCS_TYPE_2"
+        },
+        {
+          "id": "ADPOI998A1227",
+          "status": "AVAILABLE",
+          "name": "neko moje ime",
+          "type": "TYPE_2"
+        }
+      ]
+    }
+  ],
+  "connectors": [
+    {
+      "id": "123QWE876FGH",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "TYPE_2"
+    },
+    {
+      "id": "ADPOI998A1227",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "5t54tADPOI998A1227",
+      "status": "CHARGING",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "ADPOI998A1227",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "TYPE_2"
+    },
+    {
+      "id": "5t54tADPOI998A1227",
+      "status": "FAULTED",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "123QWE876FGH",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "5t54tADPOI998A1227",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "123QWE876FGH",
+      "status": "FAULTED",
+      "name": "neko moje ime",
+      "type": "TYPE_2"
+    },
+    {
+      "id": "ADPOI998A1227",
+      "status": "CHARGING",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "123QWE876FGH",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "ADPOI998A1227",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "TYPE_2"
+    },
+    {
+      "id": "123QWE876FGH",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "CCS_TYPE_2"
+    },
+    {
+      "id": "ADPOI998A1227",
+      "status": "AVAILABLE",
+      "name": "neko moje ime",
+      "type": "TYPE_2"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 6543789523508234000,
+      "connector": {
+        "id": "conn-id-453151",
+        "name": "conn levi",
+        "my_charger": "fc5183fb-558c-4e3b-8a55-144b7163c49d"
+      },
+      "card": {
+        "id": "gHr843Jk",
+        "label": "zikina kartica"
+      },
+      "price": 9,
+      "meter_start": 0,
+      "meter_stop": 437,
+      "meter_total": 565,
+      "start_time": 163804117800,
+      "end_time": 1638127578000,
+      "ocpp_id": "432875hs1f9a874g34gca",
+      "charger_name": "Sjeverna Tribina Foca",
+      "card_label": "Zikina Teget Kartica",
+      "connector_name": "35289",
+      "duration": 1504024
+    },
+    {
+      "id": 7684784,
+      "connector": {
+        "id": "conn-id-906394563",
+        "name": "conn desni",
+        "my_charger": "fc5183fb-558c-4e3b-8a55-144b7163c49d"
+      },
+      "card": {
+        "id": "gHr843Jk",
+        "label": "admin kartica"
+      },
+      "price": 1300,
+      "meter_start": 0,
+      "meter_stop": 120,
+      "meter_total": 323,
+      "start_time": 1638041178000,
+      "end_time": 1638127578000,
+      "ocpp_id": "bvcxvbzcbvnbn",
+      "charger_name": "Jahorina Vucko",
+      "card_label": "Zura Kartica - Janko",
+      "connector_name": "54352",
+      "duration": 8500000
+    },
+    {
+      "id": 8764536523523453000,
+      "connector": {
+        "id": "conn-id-3476124967",
+        "name": "conn sarni",
+        "my_charger": "fc5183fb-558c-4e3b-8a55-144b7163c49d",
+        "label": "stara kartica"
+      },
+      "card": {
+        "id": "gHr843Jk",
+        "label": "karticica"
+      },
+      "price": 9,
+      "meter_start": 0,
+      "meter_stop": 0,
+      "meter_total": 0,
+      "start_time": 1638041178000,
+      "end_time": null,
+      "ocpp_id": "r5t75hs1f9a874145t4tca",
+      "charger_name": "Beograd Terazije",
+      "card_label": "Admin",
+      "connector_name": "11111",
+      "duration": 0
+    },
+    {
+      "id": 45234524352,
+      "connector": {
+        "id": "conn-id-445252",
+        "name": "conn plavi",
+        "my_charger": "fc5183fb-558c-4e3b-8a55-144b7163c49d"
+      },
+      "card": {
+        "id": "Jr771Me",
+        "label": "VW kartica"
+      },
+      "price": 40,
+      "meter_start": 0,
+      "meter_stop": 0,
+      "meter_total": 0,
+      "start_time": 1638041178000,
+      "end_time": null,
+      "ocpp_id": "nvirenfvmoifwemfw",
+      "charger_name": "Brcko Gas - Gradiska",
+      "card_label": "Gojko Pjetlovic",
+      "connector_name": "28287",
+      "duration": 0
+    }
+  ],
+  "cards": [
+    {
+      "id": "gHr843Jk",
+      "identity": "SDFVVSDSS",
+      "amount": 452,
+      "label": "Administratorksa Kartica",
+      "state": "ACTIVE",
+      "created_at": "05-11-2021 14:35:46"
+    },
+    {
+      "id": "Jr771Me",
+      "identity": "NBMDNBFV",
+      "amount": 320.5,
+      "label": "Giga Moravac",
+      "state": "DELETED",
+      "created_at": "11-05-2021 14:35:46"
+    },
+    {
+      "id": "Br4812T",
+      "identity": "UIQYPYQEWR",
+      "amount": 1371,
+      "label": "Zika Pavlovic",
+      "state": "ACTIVE",
+      "created_at": "11-05-2021 14:35:46"
+    },
+    {
+      "id": "Cwy_3rZ",
+      "identity": "DVSDAVCAS",
+      "amount": 123.7,
+      "state": "ACTIVE",
+      "label": "Perko Nikic",
+      "created_at": "01-04-2021 08:11:46"
+    },
+    {
+      "id": "T-G3X32",
+      "identity": "QWERWQERQ",
+      "amount": 134,
+      "state": "ACTIVE",
+      "label": "Milan Todorovic",
+      "created_at": "08-11-2021 11:37:09"
+    }
+  ],
+  "request_testing": [
+    {
+      "some_data": 123,
+      "other_data": "jeknrfinrfmwerf",
+      "object field": {
+        "my_number": 789237482354
+      },
+      "long_field": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}

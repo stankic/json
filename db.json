@@ -4,19 +4,19 @@
       "id": "fc5183fb-558c-4e3b-8a55-144b7163c49d",
       "serial_number": "78as52hb5jk2345829ufdssd2",
       "charge_point_serial_number": "IJKHFERFRFE",
-      "name": "Foca - Sadion - Sjeverna Tribina",
+      "name": "Danube",
       "model": "EVlink Wallbox Plus - T2 socket outlet - 3 phase - 16A/11kW",
       "vendor": "Schneider Electric",
       "firmware_version": "2.81.0 14456",
-      "address": "Pera Nikica 17A, Foca Nova kao ime",
-      "price": "0.72",
-      "power": 72,
+      "address": "Vereda Patiño, 168, Nro 81]",
+      "price": 3,
+      "power": 22,
       "status": "AVAILABLE",
       "state": "OPERATIVE",
       "last_message_at": "2021-11-06T23:25:44.353Z",
       "last_diagnostic_at": "2021-10-06T23:25:44.353Z",
       "diagnostic_file_link": "https://yahoo.com",
-      "diagnostic_file": "Diagnostic Report 2021-14-08",
+      "diagnostic_file": "Diagnostic Report 2021-09-10",
       "connectors": [
         {
           "id": "123QWE876FGH",
@@ -45,16 +45,16 @@
       "id": "x78vR_j",
       "serial_number": "7846089723141",
       "charge_point_serial_number": "BCEWIFICWEWERF",
-      "name": "Biblioteka Foca",
+      "name": "Dnieper",
       "model": "Juzna Backa - HomeCharger",
       "vendor": "Juzna Backa",
       "firmware_version": "22.08",
-      "address": "Zike Pavlovica 14",
-      "price": 0.5,
-      "power": 14,
+      "address": "Av. Diego Enríquez, 081, Hab. 2",
+      "price": 3.1,
+      "power": 24,
       "status": "UNAVAILABLE",
       "state": "OPERATIVE",
-      "last_message_at": "2020-11-06T23:25:44.353Z",
+      "last_message_at": "2021-11-06T23:25:40.353Z",
       "last_diagnostic_at": "2020-11-06T23:25:44.353Z",
       "diagnostic_file_link": "https://instagram.com",
       "diagnostic_file": "Diagnostic Report 2021-14-08",
@@ -65,13 +65,13 @@
         {
           "id": "ADPOI998A1227",
           "status": "AVAILABLE",
-          "name": "neko moje ime",
+          "name": "36182",
           "type": "CCS_TYPE_2"
         },
         {
           "id": "5t54tADPOI998A1227",
           "status": "FAULTED",
-          "name": "neko moje ime",
+          "name": "82910",
           "type": "TYPE_2"
         }
       ]
@@ -80,29 +80,29 @@
       "id": "NNG4-ud",
       "serial_number": "638576280352",
       "charge_point_serial_number": "JFHIWOUEHFW",
-      "name": "Piljara - Glavni ulaz",
+      "name": "Don",
       "model": "Schneider 2040 V8",
       "vendor": "Schneider",
       "firmware_version": "4.77v",
-      "address": "Foca BB",
-      "price": 4,
-      "power": 7,
+      "address": "Vereda Nadia, Apto 54",
+      "price": 5,
+      "power": 180,
       "status": "AVAILABLE",
       "state": "OPERATIVE",
-      "last_message_at": "2014-11-06T23:53:51.373Z",
+      "last_message_at": "2021-11-06T23:20:17.353Z",
       "last_diagnostic_at": null,
       "diagnostic_file_link": null,
       "connectors": [
         {
           "id": "123QWE876FGH",
           "status": "AVAILABLE",
-          "name": "neko moje ime",
+          "name": "24281",
           "type": "TYPE_2"
         },
         {
           "id": "5t54tADPOI998A1227",
           "status": "AVAILABLE",
-          "name": "neko moje ime",
+          "name": "37180",
           "type": "CCS_TYPE_2"
         }
       ]
@@ -111,29 +111,29 @@
       "id": "7507slq",
       "serial_number": "09882376451",
       "charge_point_serial_number": "JKHFWOIFOWEF",
-      "name": "VW - Auto Centar",
+      "name": "Sava",
       "model": "VW Laidos 2000",
       "vendor": "VW Inc.",
       "firmware_version": "0.71",
-      "address": "Sumatovacka 14",
-      "price": 7.5,
-      "power": 130,
+      "address": "Avenida Guillermo, 6, Hab. 16",
+      "price": 5.8,
+      "power": 360,
       "status": "AVAILABLE",
       "state": "OPERATIVE",
-      "last_message_at": "2000-11-06T23:53:51.373Z",
+      "last_message_at": "2021-11-06T23:26:01.353Z",
       "last_diagnostic_at": null,
       "diagnostic_file_link": null,
       "connectors": [
         {
           "id": "123QWE876FGH",
           "status": "FAULTED",
-          "name": "neko moje ime",
+          "name": "83927",
           "type": "CCS_TYPE_2"
         },
         {
           "id": "ADPOI998A1227",
           "status": "CHARGING",
-          "name": "neko moje ime",
+          "name": "23573",
           "type": "TYPE_2"
         }
       ]
@@ -142,16 +142,16 @@
       "id": "4ncnLM1",
       "serial_number": "423511214",
       "charge_point_serial_number": "HGFUIWERHFE",
-      "name": "Tesla Charger - Vitanovacka",
+      "name": "Loire",
       "model": "TeslaCharge 72.20",
       "vendor": "Tesla",
       "firmware_version": "1.17.0",
-      "address": "Vitanovacka 44",
-      "price": 17.22,
+      "address": "Calle Lidia, 631, Casa 84",
+      "price": 3.9,
       "power": 50,
       "status": "FAULTED",
       "state": "INOPERATIVE",
-      "last_message_at": null,
+      "last_message_at": "2021-11-06T23:24:31.353Z",
       "last_diagnostic_at": null,
       "diagnostic_file_link": null,
       "connectors": [
@@ -180,19 +180,19 @@
       },
       "card": {
         "id": "gHr843Jk",
-        "label": "zikina kartica"
+        "label": "Dylon Carver"
       },
-      "price": 9,
+      "price": 9.2,
       "meter_start": 0,
-      "meter_stop": 437,
-      "meter_total": 565,
-      "start_time": 163804117800,
-      "end_time": 1638127578000,
-      "ocpp_id": "432875hs1f9a874g34gca",
-      "charger_name": "Sjeverna Tribina Foca",
-      "card_label": "Zikina Teget Kartica",
-      "connector_name": "35289",
-      "duration": 1504024
+      "meter_stop": 21.3,
+      "meter_total": 21.3,
+      "start_time": 1640434285000,
+      "end_time": 1640449957000,
+      "ocpp_id": "4e72ab80f565447f",
+      "charger_name": "Dnieper",
+      "card_label": "Dylon Carver",
+      "connector_name": "72937",
+      "duration": 15672000
     },
     {
       "id": 7684784,
@@ -203,19 +203,19 @@
       },
       "card": {
         "id": "gHr843Jk",
-        "label": "admin kartica"
+        "label": "Pero Nikić"
       },
-      "price": 1300,
+      "price": 3.1,
       "meter_start": 0,
-      "meter_stop": 120,
-      "meter_total": 323,
-      "start_time": 1638041178000,
-      "end_time": 1638127578000,
-      "ocpp_id": "bvcxvbzcbvnbn",
-      "charger_name": "Jahorina Vucko",
-      "card_label": "Zura Kartica - Janko",
-      "connector_name": "54352",
-      "duration": 8500000
+      "meter_stop": 10,
+      "meter_total": 10,
+      "start_time": 1637685020000,
+      "end_time": 1637694601000,
+      "ocpp_id": "ec92b1ccb4c54976",
+      "charger_name": "Don",
+      "card_label": "Pero Nikić",
+      "connector_name": "35289",
+      "duration": 9581000
     },
     {
       "id": 8764536523523453000,
@@ -227,18 +227,18 @@
       },
       "card": {
         "id": "gHr843Jk",
-        "label": "karticica"
+        "label": "Adelina Craft"
       },
-      "price": 9,
+      "price": 4.9,
       "meter_start": 0,
-      "meter_stop": 0,
-      "meter_total": 0,
-      "start_time": 1638041178000,
+      "meter_stop": 15.6,
+      "meter_total": 15.6,
+      "start_time": 1640439707000,
       "end_time": null,
-      "ocpp_id": "r5t75hs1f9a874145t4tca",
-      "charger_name": "Beograd Terazije",
-      "card_label": "Admin",
-      "connector_name": "11111",
+      "ocpp_id": "fa6f386bb7524812",
+      "charger_name": "Elbe",
+      "card_label": "Adelina Craft",
+      "connector_name": "74382",
       "duration": 0
     },
     {
@@ -250,61 +250,61 @@
       },
       "card": {
         "id": "Jr771Me",
-        "label": "VW kartica"
+        "label": "Žika Pavlović"
       },
-      "price": 40,
+      "price": 2.2,
       "meter_start": 0,
-      "meter_stop": 0,
-      "meter_total": 0,
-      "start_time": 1638041178000,
-      "end_time": null,
-      "ocpp_id": "nvirenfvmoifwemfw",
-      "charger_name": "Brcko Gas - Gradiska",
-      "card_label": "Gojko Pjetlovic",
-      "connector_name": "28287",
-      "duration": 0
+      "meter_stop": 6.2,
+      "meter_total": 6.2,
+      "start_time": 1640459401000,
+      "end_time": 1640463353000,
+      "ocpp_id": "d541443f84fa479f",
+      "charger_name": "Oder",
+      "card_label": "Žika Pavlović",
+      "connector_name": "63719",
+      "duration": 3952000
     }
   ],
   "cards": [
     {
       "id": "gHr843Jk",
       "identity": "SDFVVSDSS",
-      "amount": 452,
-      "label": "Administratorksa Kartica",
+      "amount": 21.8,
+      "label": "Dylon Carver",
       "state": "ACTIVE",
-      "created_at": "05-11-2021 14:35:46"
+      "created_at": "05-11-2021 14:32:46"
     },
     {
       "id": "Jr771Me",
       "identity": "NBMDNBFV",
-      "amount": 320.5,
-      "label": "Giga Moravac",
+      "amount": 19.4,
+      "label": "Adelina Craft",
       "state": "DELETED",
-      "created_at": "11-05-2021 14:35:46"
+      "created_at": "11-05-2021 14:35:47"
     },
     {
       "id": "Br4812T",
       "identity": "UIQYPYQEWR",
-      "amount": 1371,
-      "label": "Zika Pavlovic",
+      "amount": 11,
+      "label": "Žika Pavlović",
       "state": "ACTIVE",
-      "created_at": "11-05-2021 14:35:46"
+      "created_at": "12-11-2021 21:07:33"
     },
     {
       "id": "Cwy_3rZ",
       "identity": "DVSDAVCAS",
       "amount": 123.7,
       "state": "ACTIVE",
-      "label": "Perko Nikic",
-      "created_at": "01-04-2021 08:11:46"
+      "label": "Kit Grainger",
+      "created_at": "11-09-2021 10:05:42"
     },
     {
       "id": "T-G3X32",
       "identity": "QWERWQERQ",
-      "amount": 134,
+      "amount": 13.9,
       "state": "ACTIVE",
-      "label": "Milan Todorovic",
-      "created_at": "08-11-2021 11:37:09"
+      "label": "Pero Nikić",
+      "created_at": "08-07-2021 13:10:20"
     }
   ],
   "request_testing": [
